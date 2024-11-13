@@ -1,0 +1,53 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/ciudadjardin/.m2/repository/com/intissar/Q/1.0-SNAPSHOT/Q-1.0-SNAPSHOT.jar;C:/Users/ciudadjardin/.m2/repository/org/openjfx/javafx-controls/22.0.1/javafx-controls-22.0.1.jar;C:/Users/ciudadjardin/.m2/repository/org/openjfx/javafx-controls/22.0.1/javafx-controls-22.0.1-win.jar;C:/Users/ciudadjardin/.m2/repository/org/openjfx/javafx-fxml/22.0.1/javafx-fxml-22.0.1.jar;C:/Users/ciudadjardin/.m2/repository/org/openjfx/javafx-fxml/22.0.1/javafx-fxml-22.0.1-win.jar;C:/Users/ciudadjardin/.m2/repository/org/openjfx/javafx-graphics/22.0.1/javafx-graphics-22.0.1.jar;C:/Users/ciudadjardin/.m2/repository/org/openjfx/javafx-graphics/22.0.1/javafx-graphics-22.0.1-win.jar;C:/Users/ciudadjardin/.m2/repository/org/openjfx/javafx-base/22.0.1/javafx-base-22.0.1.jar;C:/Users/ciudadjardin/.m2/repository/org/openjfx/javafx-base/22.0.1/javafx-base-22.0.1-win.jar'
+-encoding
+'UTF-8'
+-public
+-source
+'23'
+-sourcepath
+'C:/Users/ciudadjardin/Desktop/ooo/Ejes dein/R/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/ciudadjardin/Desktop/ooo/Ejes dein/R/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'R 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'R 1.0-SNAPSHOT API'
+com.intissar.r
+'C:/Users/ciudadjardin/Desktop/ooo/Ejes dein/R/src/main/java/com/intissar/r/ForTemporizadorController.java'
+'C:/Users/ciudadjardin/Desktop/ooo/Ejes dein/R/src/main/java/com/intissar/r/Main.java'
+C:\Users\ciudadjardin\.m2\repository\com\intissar\Q\1.0-SNAPSHOT\Q-1.0-SNAPSHOT.jar = 1730751037404
+C:\Users\ciudadjardin\.m2\repository\org\openjfx\javafx-controls\22.0.1\javafx-controls-22.0.1.jar = 1730194655475
+C:\Users\ciudadjardin\.m2\repository\org\openjfx\javafx-controls\22.0.1\javafx-controls-22.0.1-win.jar = 1730194657341
+C:\Users\ciudadjardin\.m2\repository\org\openjfx\javafx-fxml\22.0.1\javafx-fxml-22.0.1.jar = 1730194656098
+C:\Users\ciudadjardin\.m2\repository\org\openjfx\javafx-fxml\22.0.1\javafx-fxml-22.0.1-win.jar = 1730194655807
+C:\Users\ciudadjardin\.m2\repository\org\openjfx\javafx-graphics\22.0.1\javafx-graphics-22.0.1.jar = 1730194655419
+C:\Users\ciudadjardin\.m2\repository\org\openjfx\javafx-graphics\22.0.1\javafx-graphics-22.0.1-win.jar = 1730194657814
+C:\Users\ciudadjardin\.m2\repository\org\openjfx\javafx-base\22.0.1\javafx-base-22.0.1.jar = 1730194656210
+C:\Users\ciudadjardin\.m2\repository\org\openjfx\javafx-base\22.0.1\javafx-base-22.0.1-win.jar = 1730194655909
+C:\Users\ciudadjardin\Desktop\ooo\Ejes dein\R\src\main\java = 1730713594762
+C:\Users\ciudadjardin\Desktop\ooo\Ejes dein\R\target\site\apidocs\allclasses-index.html = 1731523457874
+C:\Users\ciudadjardin\Desktop\ooo\Ejes dein\R\target\site\apidocs\allpackages-index.html = 1731523457879
+C:\Users\ciudadjardin\Desktop\ooo\Ejes dein\R\target\site\apidocs\element-list = 1731523457729
+C:\Users\ciudadjardin\Desktop\ooo\Ejes dein\R\target\site\apidocs\help-doc.html = 1731523457945
+C:\Users\ciudadjardin\Desktop\ooo\Ejes dein\R\target\site\apidocs\index-all.html = 1731523457925
+C:\Users\ciudadjardin\Desktop\ooo\Ejes dein\R\target\site\apidocs\index.html = 1731523457934
+C:\Users\ciudadjardin\Desktop\ooo\Ejes dein\R\target\site\apidocs\member-search-index.js = 1731523457896
+C:\Users\ciudadjardin\Desktop\ooo\Ejes dein\R\target\site\apidocs\module-search-index.js = 1731523457885
+C:\Users\ciudadjardin\Desktop\ooo\Ejes dein\R\target\site\apidocs\overview-tree.html = 1731523457830
+C:\Users\ciudadjardin\Desktop\ooo\Ejes dein\R\target\site\apidocs\package-search-index.js = 1731523457888
+C:\Users\ciudadjardin\Desktop\ooo\Ejes dein\R\target\site\apidocs\search.html = 1731523457929
+C:\Users\ciudadjardin\Desktop\ooo\Ejes dein\R\target\site\apidocs\tag-search-index.js = 1731523457899
+C:\Users\ciudadjardin\Desktop\ooo\Ejes dein\R\target\site\apidocs\type-search-index.js = 1731523457893
